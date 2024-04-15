@@ -2,6 +2,7 @@
 
 void sort(){
  printf("sort");
+ printf("kakalafafa");
 }
 int main(){
 
