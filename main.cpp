@@ -10,4 +10,5 @@ int main(){
 
 	printf("hello world!");
 	printf("ubuntu");
+	printf("new line");
 }
