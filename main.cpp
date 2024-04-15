@@ -5,6 +5,7 @@ void sort(){
  printf("kakalafafa");
  printf("dudulala);
 }
+//comment
 int main(){
 
 	printf("hello world!");
