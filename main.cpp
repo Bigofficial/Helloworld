@@ -11,4 +11,6 @@ int main(){
 	printf("hello world!");
 	printf("ubuntu");
 	printf("new line macos");
+	printf("new line");
+
 }
