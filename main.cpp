@@ -8,5 +8,5 @@ void sort(){
 int main(){
 
 	printf("hello world!");
-
+	printf("ubuntu");
 }
