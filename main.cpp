@@ -6,14 +6,18 @@
 using namespace std;
 void sort(int[] arr, int size){
 	int temp = 0;
+	bool flag = false;
 	for(int i = 0; i < size - 1; i++){
 	for(int j = 0; j < size - 1; j++){
 		if(arr[j] > arr[i])
 		{
+
 			int temp = j;
 			j = i;
 			i = temp;
+			flag = true;
 		}
+		if(!flag) break;
 	}
 	}
 }
