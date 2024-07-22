@@ -1,5 +1,5 @@
 #include<iostream>
-//阿亮来噜
+//阿亮来噜哈哈哈
 using namespace std;
 void sort(int[] arr, int size){
 	int temp = 0;
