@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
-
+void sort(int[] arr, int size){
+	
+}
 int main(){
 	
 	int arr[] = {12, 4, 89};
